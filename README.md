@@ -1,4 +1,3 @@
-staff-card
-==========
+# SITCON Staff Card
 
-This is repo for me.sitcon.org we storage all our personal on github.
+This is a database for me.sitcon.org, we storage all staff information in github.
