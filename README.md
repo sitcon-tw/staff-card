@@ -1,3 +1,3 @@
 # SITCON Staff Card
 
-This is a database for me.sitcon.org, we storage all staff information in github.
+This is the database of me.sitcon.org, in which we store all staff information in github.
