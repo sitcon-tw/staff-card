@@ -6,4 +6,6 @@
 
 [Network E.M.U. Application Laboratory] (http://nemu.ncut.edu.tw/?page_id=13#39917059)
 
+[UGDC - Unity3D Game Design Community] (https://www.facebook.com/groups/NCUT.group/)
+
 標籤：Java, Android, Arduino, Raspberry Pi, Unity3D, Mono, C#
